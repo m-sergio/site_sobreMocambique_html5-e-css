@@ -1,0 +1,95 @@
+.back{
+
+	background-image: url("../_imagens/slide1.jpg");
+	width: 100%;
+	height: 100%;
+
+}
+
+.back h3{
+	text-decoration: underline;
+	text-align: center;
+	font-weight: bold;
+	font-size: 26px;
+	font-family: Algerian;
+}
+
+.bd{
+	border: 1px solid black;
+	margin-top: 6px; 
+}
+
+
+
+.menu li{
+	display: inline-block;
+	border: 3px solid blue;
+	padding: 5px;
+	margin: 3px;
+	background-color: #dcb529;
+
+}
+
+.menu a{
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.menu ul{
+	text-align: right;
+	margin-top: 20px;
+}
+
+
+/*Formatacao do Historial*/
+.hist h2{
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+.hist p{
+	text-indent: 20px;
+	font-size: 20px;
+}
+
+
+/*pontos turisticso*/
+
+
+.pontos h3{
+	font-size: 20px;
+	text-align: center;
+	text-decoration: underline;
+
+}
+.pontos li{
+	display: inline-block;
+
+}
+
+.pontos ul{
+	text-align: center;
+}
+
+/*Formatacao das praias*/
+.praias h2{
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.praias li{
+	display: inline-block;
+
+}
+
+.praias ul{
+	text-align: center;
+}
+
+.for h2{
+	text-decoration: underline;
+
+}
